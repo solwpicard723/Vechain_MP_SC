@@ -1,0 +1,83 @@
+{
+  "mainnet": {
+    "marketplace": ""
+  },
+  "rinkeby": {
+    "marketplace": ""
+  },
+  "polygon": {
+    "marketplace": ""
+  },
+  "mumbai": {
+    "marketplace": ""
+  },
+  "avax_testnet": {
+    "marketplace": ""
+  },
+  "fantom": {
+    "marketplace": ""
+  },
+  "fantom_testnet": {
+    "marketplace": ""
+  },
+  "vechain": {
+    "marketplace": ""
+  },
+  "vechain_testnet": {
+    "mainnet": {
+      "marketplace": ""
+    },
+    "rinkeby": {
+      "marketplace": ""
+    },
+    "polygon": {
+      "marketplace": ""
+    },
+    "mumbai": {
+      "marketplace": ""
+    },
+    "avax_testnet": {
+      "marketplace": ""
+    },
+    "fantom": {
+      "marketplace": ""
+    },
+    "fantom_testnet": {
+      "marketplace": ""
+    },
+    "vechain": {
+      "marketplace": ""
+    },
+    "vechain_testnet": {
+      "mainnet": {
+        "marketplace": ""
+      },
+      "rinkeby": {
+        "marketplace": ""
+      },
+      "polygon": {
+        "marketplace": ""
+      },
+      "mumbai": {
+        "marketplace": ""
+      },
+      "avax_testnet": {
+        "marketplace": ""
+      },
+      "fantom": {
+        "marketplace": ""
+      },
+      "fantom_testnet": {
+        "marketplace": ""
+      },
+      "vechain": {
+        "marketplace": ""
+      },
+      "vechain_testnet": {
+        "marketplace": ""
+      },
+      "marketplace": "0x80E6d980eb5b1dd7398EDcf70C22b8ACCdC72813"
+    },
+    "marketplace": "0x80E6d980eb5b1dd7398EDcf70C22b8ACCdC72813"
+  }
+}
