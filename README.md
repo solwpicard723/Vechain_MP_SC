@@ -1,1 +1,1 @@
-# Apollo protocol
+# Vechain MP SC
